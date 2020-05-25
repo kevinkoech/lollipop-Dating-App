@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="colorPrimary">#fa0</color>
+    <color name="colorPrimaryDark">#ffa000</color>
+    <color name="colorAccent">#AAAAAA</color>
+    <color name="colorWhite">#EDF6F5</color>
+    <color name="colorHighlight">#82923A</color>
+    <color name="colorBlack">#000000</color>
+    <color name="colorBrown">#443129</color>
+
+
+
+    <color name="offwhile">#F1E9E3</color>
+
+    <!--OnBoard-->
+
+    <color name="selected_dot">#2a0000</color>
+    <color name="idle_dot">#662D9CDB</color>
+    <color name="ob_header">#4A4A4A</color>
+    <color name="ob_desc">#4A4A4A</color>
+</resources>

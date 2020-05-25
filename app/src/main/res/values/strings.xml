@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Lollipop</string>
+
+//OnBoarding//
+    <string name="ob_header1">Welcome to Lollipop</string>
+    <string name="ob_header2">Adults Only</string>
+    <string name="ob_header3">Sweet Lollipops</string>
+
+    <string name="ob_get_started">GET STARTED</string>
+
+    <string name="ob_desc1">For Adults who needs to meet new friends and willing to agree,Lollipop is here to connect them and bear NO RESPONSIBILITY into your privacy nor communication</string>
+    <string name="ob_desc2">18+ ONLY allowed to use this Application,this contain Nudes and naked pics which by law is prohibited to under 18+</string>
+    <string name="ob_desc3">Get a chic,call and Have Fun Today! Remember to play SAFE GAME,use protection!</string>
+
+
+
+
+
+</resources>
